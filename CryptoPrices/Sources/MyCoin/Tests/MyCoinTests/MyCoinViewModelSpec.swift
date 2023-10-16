@@ -266,3 +266,4 @@ final class MyCoinViewModelSpec: QuickSpec {
         }
     }
 }
+// swiftlint:enable closure_body_length function_body_length

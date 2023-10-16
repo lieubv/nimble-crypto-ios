@@ -65,3 +65,4 @@ public extension MockDataPoint {
         )
     ]
 }
+// swiftlint:enable number_separator

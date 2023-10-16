@@ -8,7 +8,8 @@
 import Foundation
 import UseCaseProtocol
 
-@MainActor public final class MyCoinViewModel: ObservableObject {
+@MainActor
+public final class MyCoinViewModel: ObservableObject {
 
     private let coinDetailUseCase: CoinDetailUseCaseProtocol
     private let getChartPricesUseCase: GetChartPricesUseCaseProtocol

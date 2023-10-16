@@ -68,6 +68,10 @@ opt_in_rules:
   - yoda_condition
 disabled_rules:
   - todo
+  - force_cast
+  - colon
+  - comma
+  - control_statement
 
 attributes:
   always_on_same_line:

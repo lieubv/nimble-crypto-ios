@@ -8,7 +8,8 @@
 import SwiftUI
 import UseCaseProtocol
 
-@MainActor public final class HomeViewModel: ObservableObject {
+@MainActor
+public final class HomeViewModel: ObservableObject {
 
     private let myCoinsUseCase: MyCoinsUseCaseProtocol
     private let trendingCoinsUseCase: TrendingCoinsUseCaseProtocol

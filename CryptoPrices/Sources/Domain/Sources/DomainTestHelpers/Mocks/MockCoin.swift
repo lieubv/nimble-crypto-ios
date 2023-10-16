@@ -34,3 +34,4 @@ public extension MockCoin {
         marketCapChangePercentage24H: 3.45
     )
 }
+// swiftlint:enable force_unwrapping

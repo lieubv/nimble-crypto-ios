@@ -27,3 +27,4 @@ private struct SizePreferenceKey: PreferenceKey {
 
     static func reduce(value: inout CGSize, nextValue: () -> CGSize) {}
 }
+// swiftlint:enable file_types_order

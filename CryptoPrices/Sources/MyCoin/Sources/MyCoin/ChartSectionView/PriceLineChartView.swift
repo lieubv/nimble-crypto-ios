@@ -99,3 +99,4 @@ struct PriceLineChartView_Previews: PreviewProvider {
     }
 }
 #endif
+// swiftlint:enable file_types_order

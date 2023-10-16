@@ -33,3 +33,4 @@ public struct Section<Content, Header>: View where Content: View, Header: View {
         .listRowInsets(.init(top: 0.0, leading: 0.0, bottom: 16.0, trailing: 0.0))
     }
 }
+// swiftlint:enable type_contents_order
